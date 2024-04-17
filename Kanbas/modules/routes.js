@@ -1,4 +1,4 @@
-import * as dao from "/Users/rness123/2024/spring/webdev/kanbas-node-server-app/Kanbas/modules/dao.js";
+import * as dao from "./dao.js";
 
 export default function ModuleRoutes(app) {
 
