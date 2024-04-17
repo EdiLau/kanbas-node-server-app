@@ -1,4 +1,4 @@
-import model from "/Users/rness123/2024/spring/webdev/kanbas-node-server-app/Kanbas/courses/model.js";
+import model from "./model.js";
 
 // make new one
 export const postCourse = (courseData) => {
